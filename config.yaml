@@ -1,0 +1,7 @@
+setup:
+    prefix: $
+    valid_users: [admin#1341, moderator#3634]
+    channels: [anime, bot, general]
+    bot_activity: "anime"
+    token: OTA4NjUxNTcwNTE2ODczMjE3.YY41uA.QnZnL9vHA1GM_iassgK0mOVjXAI
+    role_message_id: 123456789012345678
